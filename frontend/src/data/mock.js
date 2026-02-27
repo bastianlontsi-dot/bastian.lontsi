@@ -19,7 +19,7 @@ export const experience = [
     id: 1,
     company: "blueAlpha GmbH",
     role: "Master in IT | Full Stack Developer | Software Architect",
-    type: "Teilzeit",
+    type: "Dualstudium Master",
     period: "Okt 2024 - Heute",
     location: "Remote, Zweibrücken, Deutschland",
     description: "DevOps & Cloud Enthusiast mit Fokus auf moderne Softwarearchitektur und Cloud-native Lösungen.",

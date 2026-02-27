@@ -410,9 +410,12 @@ const Home = () => {
                     )}
                   </div>
                   
-                  <Button variant="ghost" className="w-full justify-between hover:bg-zinc-800 group-hover:text-blue-400">
+                  <Button variant="ghost" className="w-full justify-between hover:bg-zinc-800 group-hover:text-blue-400"
+                  
+                    onClick={() => window.open(project.link, '_blank')}
+                  >
                     Details anzeigen
-                    <ExternalLink className="w-4 h-4" />
+                    <ExternalLink  className="w-4 h-4"  />
                   </Button>
                 </CardContent>
               </Card>
