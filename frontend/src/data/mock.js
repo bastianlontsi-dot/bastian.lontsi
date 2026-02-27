@@ -1,16 +1,16 @@
 // Mock data for Bastian Lontsi Portfolio
 
 export const personalInfo = {
-  name: "Bastian (Kemka) Lontsi",
+  name: "Bastian Lontsi",
   title: "Master in IT | Full Stack Developer | Software Architect",
   subtitle: "DevOps & Cloud Enthusiast",
   location: "Zweibrücken / Stuttgart Region, Deutschland",
   status: "Offen für neue Möglichkeiten",
   bio: "Leidenschaftlicher Full Stack Developer mit Expertise in Software-Architektur und DevOps. Spezialisiert auf die Entwicklung skalierbarer Anwendungen und sicherer Cloud-Infrastrukturen.",
   bioLong: "Mit über 4 Jahren Erfahrung in der Softwareentwicklung bringe ich fundierte Kenntnisse in Full Stack Development, Software-Architektur und DevOps-Praktiken mit. Meine Arbeit bei Mercedes-Benz Tech Innovation und anderen innovativen Unternehmen hat mir ermöglicht, komplexe technische Herausforderungen zu lösen und moderne, skalierbare Lösungen zu entwickeln. Besonders interessiere ich mich für Cloud-native Architekturen, Sicherheitsmanagement mit Tools wie HashiCorp Vault und die Optimierung von Entwicklungsprozessen.",
-  email: "bastian.lontsi@example.com",
-  linkedin: "https://linkedin.com/in/bastian-lontsi",
-  github: "https://github.com/bastian-lontsi",
+  email: "bastian.lontsi@icloud.com",
+  linkedin: "https://www.linkedin.com/in/bastian-lontsi-46462b161/",
+  github: "https://github.com/bastianNebra",
   cv: "/cv/bastian-lontsi-cv.pdf"
 };
 
@@ -140,7 +140,7 @@ export const projects = [
       "4.8/5 Sterne Nutzerbewertung"
     ],
     status: "In Produktion",
-    link: "#"
+    link: "https://gitlab.com/mziba1/mziba-backend"
   },
   {
     id: 2,
@@ -165,7 +165,7 @@ export const projects = [
       "Vollständige Compliance mit Sicherheitsstandards"
     ],
     status: "In Produktion",
-    link: "#"
+    link: "https://gitlab.com/dashboard/groups"
   },
   {
     id: 3,
@@ -190,7 +190,7 @@ export const projects = [
       "Unterstützung von 10x mehr gleichzeitigen Benutzern"
     ],
     status: "In Produktion",
-    link: "#"
+    link: "https://gitlab.com/dashboard/groups"
   }
 ];
 
@@ -232,18 +232,18 @@ export const education = [
     institution: "Hochschule Kaiserslautern",
     degree: "Bachelor of Applied Science",
     field: "Angewandte Informatik",
-    period: "2020 - 2024",
+    period: "2020 - 2025",
     description: "Schwerpunkte: Software Engineering, Datenbanken, Web-Technologien",
-    skills: ["Java", "Spring", "Softwarearchitektur", "Datenbanken", "Algorithmen"]
+    skills: ["Java", "Spring","Laravel", "Softwarearchitektur", "Datenbanken", "Algorithmen","Flutter", "Dart", "PHP", "HTML", "CSS", "JavaScript"]
   },
   {
     id: 2,
     institution: "Hochschule Kaiserslautern",
-    degree: "Spezialisierung",
-    field: "Front-End Development",
-    period: "2020 - 2024",
-    description: "Vertiefung in moderne Frontend-Technologien und User Experience Design",
-    skills: ["React", "JavaScript", "CSS", "UX/UI", "Responsive Design"]
+    degree: "Master of Science",
+    field: "Informatik - dual Software-Entwicklung",
+    period: "2025 - 2026",
+    description: "Vertiefung in moderne Software-Entwicklung, DevOps und Cloud-Technologien",
+    skills: ["Cloud-native Architekturen", "DevOps-Praktiken", "HashiCorp Vault", "Kubernetes", "CI/CD", "Software-Architektur", "Sicherheitsmanagement"]
   }
 ];
 
